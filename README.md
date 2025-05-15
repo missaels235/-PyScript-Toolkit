@@ -129,4 +129,4 @@ Antes de ejecutar la aplicación, asegúrate de tener instalados los siguientes 
 5.  **Menú Ayuda:**
     * Ve a `Ayuda > Acerca de PyScript Toolkit` para ver información sobre la aplicación y el desarrollador.
 
-## Estructura del Proyecto (Ejemplo)
+
